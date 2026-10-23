@@ -1,0 +1,67 @@
+[
+  {
+    "folder": "p3",
+    "style": "Mid-century modern",
+    "slides": [
+      "carousels/p3/01.png",
+      "carousels/p3/02.png",
+      "carousels/p3/03.png",
+      "carousels/p3/04.png",
+      "carousels/p3/05.png",
+      "carousels/p3/06.png",
+      "carousels/p3/07.png"
+    ]
+  },
+  {
+    "folder": "p4",
+    "style": "Eclectic",
+    "slides": [
+      "carousels/p4/01.png",
+      "carousels/p4/02.png",
+      "carousels/p4/03.png",
+      "carousels/p4/04.png",
+      "carousels/p4/05.png",
+      "carousels/p4/06.png",
+      "carousels/p4/07.png"
+    ]
+  },
+  {
+    "folder": "p5",
+    "style": "Japandi",
+    "slides": [
+      "carousels/p5/01.png",
+      "carousels/p5/02.png",
+      "carousels/p5/03.png",
+      "carousels/p5/04.png",
+      "carousels/p5/05.png",
+      "carousels/p5/06.png",
+      "carousels/p5/07.png"
+    ]
+  },
+  {
+    "folder": "p6",
+    "style": "Coastal",
+    "slides": [
+      "carousels/p6/01.png",
+      "carousels/p6/02.png",
+      "carousels/p6/03.png",
+      "carousels/p6/04.png",
+      "carousels/p6/05.png",
+      "carousels/p6/06.png",
+      "carousels/p6/07.png"
+    ]
+  },
+  {
+    "folder": "p7",
+    "style": "Modern classic",
+    "slides": [
+      "carousels/p7/01.png",
+      "carousels/p7/02.png",
+      "carousels/p7/03.png",
+      "carousels/p7/04.png",
+      "carousels/p7/05.png",
+      "carousels/p7/06.png",
+      "carousels/p7/07.png"
+    ]
+  }
+]
